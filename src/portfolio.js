@@ -34,7 +34,7 @@ const projects = [
     description:
       'End-to-end machine learning web app to predicts the species of penguins using random forest algorithms.',
     stack: ['Python', 'Pandas', 'Streamlit'],
-    sourceCode: 'hhttps://github.com/LDwigantoro/Penguins-Classification',
+    sourceCode: 'https://github.com/LDwigantoro/Penguins-Classification',
     livePreview: 'https://klasifikasi-pinguin.herokuapp.com/',
   },
   {
