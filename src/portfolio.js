@@ -10,7 +10,7 @@ const about = {
   role: 'Computer Science Student',
   description:
     'Fourth-year computer science student, a future software engineer who loves to solve problems in technologize ways. My passion for technology brought me to Universitas Padjadjaran, where I am studying Undergraduate in Computer Science. ',
-  resume: 'https://drive.google.com/file/d/12I_eL1rPf9-5BKKUpIAmmjsrrfKJiNcz/view',
+  resume: 'https://drive.google.com/file/d/1X52XGGUbq6QhdD_VdWPUJjkL9bxwvhKZ/view',
   social: {
     linkedin: 'https://linkedin.com/in/leonardo-dwigantoro',
     github: 'https://github.com/ldwigantoro',
