@@ -15,9 +15,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-
-
-
 /* Main Page Layout */
 
 #main-content {
@@ -57,9 +54,6 @@ body {
   flex-basis: 50%;
 }
 
-
-
-
 /* About Section */
 
 #about-section {
@@ -84,6 +78,13 @@ body {
   flex-direction: column;
   gap: 16px;
 }
+
+#my-repo-section {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
 
 .projects-container {
   display: flex;
@@ -220,4 +221,10 @@ body {
 }
 
 
-
+.button-other{
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+  margin-top: 25px;
+}
