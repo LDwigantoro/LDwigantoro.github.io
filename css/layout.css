@@ -15,10 +15,11 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+
 /* Main Page Layout */
 
 #main-content {
-  margin: 225px 425px;
+  margin: 225px 425px 150px 425px;
   display: flex;
   flex-direction: column;
   gap: 96px;
@@ -226,5 +227,5 @@ body {
   width: 50%;
   border: 3px solid green;
   padding: 10px;
-  margin-top: 25px;
+  margin-top: 75px;
 }
