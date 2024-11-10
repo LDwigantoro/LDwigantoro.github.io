@@ -18,7 +18,7 @@ body {
 /* Main Page Layout */
 
 #main-content {
-  margin: 225px 425px 150px 425px;
+  margin: 50px 425px 50px 425px;
   display: flex;
   flex-direction: column;
   gap: 96px;
@@ -70,7 +70,7 @@ body {
 #my-work-section {
   display: flex;
   flex-direction: column;
-  gap: 25px 20px;
+  gap: 5px 2px;
 }
 
 #my-repo-section {
@@ -220,7 +220,7 @@ body {
 .experience-header {
   display: flex;
   align-items: center;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 
 .experience-header img {
