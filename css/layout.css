@@ -308,6 +308,7 @@ body {
 
 .timeline-content .timeline-p {
   font-size: 14px;
+  font-weight: 500;
   line-height: 1.5em;
   word-spacing: 1px;
   color: black;
