@@ -20,12 +20,13 @@ body {
 
 .image-caption {
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 700;
 }
 
 .main-title {
-  font-size: 40px;
+  font-size: 32px;
   font-weight: 700;
+  text-align: center;
 }
 
 .subheader-text {
