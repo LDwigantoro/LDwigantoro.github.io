@@ -89,7 +89,7 @@ a.button1 {
   align-items: center;
 }
 
-a.button:hover1 {
+a.button1:hover {
   text-decoration: underline;
   text-decoration-thickness: 2px;
   cursor: pointer;
@@ -106,7 +106,7 @@ a.button:hover1 {
   gap: 16px;
 }
 
-#footer1 {
+.project-links {
   width: 100%;
   display: flex;
   gap: 16px;

@@ -27,12 +27,14 @@ body {
   font-size: 32px;
   font-weight: 700;
   text-align: center;
+  margin: 0;
 }
 
 .subheader-text {
   font-size: 22px;
   font-weight: 700;
   text-align: center;
+  margin: 0;
 }
 
 .body-text {
